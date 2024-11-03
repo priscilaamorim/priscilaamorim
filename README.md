@@ -26,4 +26,6 @@
 
 
 
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Priscilaamorim&label=Profile%20Views&color=10&pretty=true" />
+</a>
