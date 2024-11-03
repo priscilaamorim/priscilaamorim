@@ -21,11 +21,11 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{PriscilaAmorim}/count.svg" /></p> 
 <br></div>
 
+ <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Priscilaamorim&label=Profile%20Views&color=10&pretty=true" />
+</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F5004F&height=120&section=footer"/>
 
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Priscilaamorim&label=Profile%20Views&color=10&pretty=true" />
-</a>
