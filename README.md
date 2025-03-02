@@ -21,12 +21,9 @@
  
  <h1 align="left">Priscila Amorim</h1>
      
- <a> 
-  </a> 
-    <a href="https://www.linkedin.com/in/priscila-amorim-5887a52a2/">
+ <a href="https://www.linkedin.com/in/priscila-amorim-5887a52a2/">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
-
 </div>
 
  </br>
