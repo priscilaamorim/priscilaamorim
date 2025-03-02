@@ -20,9 +20,12 @@
 <div dsplay="inline-block">
  
  <h1 align="left">Priscila Amorim</h1>
+  <a href="amorimpriscila500@hotmail.com">
+    <img width="80px" src="https://i.ibb.co/Hp2cH3HP/emails.png"  style="vertical-align:top;">
+  </a>
      
  <a href="https://www.linkedin.com/in/priscila-amorim-5887a52a2/">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+    <img width="80px" src="https://i.ibb.co/0ynDGygK/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
 
