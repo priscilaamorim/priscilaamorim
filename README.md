@@ -20,7 +20,7 @@
 <div dsplay="inline-block">
  
  <h1 align="left">Priscila Amorim</h1>
-  <a href="https://outlook.live.com/mail/0/">
+  <a href="Amorimpriscila500@hotmail.com">
     <img width="55px" src="https://i.ibb.co/Hp2cH3HP/emails.png"  style="vertical-align:top;">
   </a>
      
