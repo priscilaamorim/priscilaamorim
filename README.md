@@ -36,8 +36,8 @@
 
 Sou apaixonada por tecnologia e em constante aprendizado! Atualmente estou me aprofundando no universo do desenvolvimento web através da Alura, onde já conquistei habilidades em:
 
-🚀 **HTML5 | CSS3 | JavaScript**  
-🔥 **Aprendendo:** TypeScript | Angular
+🚀 **HTML5 | CSS3 | JavaScript | TypeScript**   
+ 
 
 Sou movida pela curiosidade de descobrir novas tecnologias e apaixonada por transformar linhas de código em soluções criativas. A cada desafio superado, renovo minha certeza de que esta é minha vocação!
 
