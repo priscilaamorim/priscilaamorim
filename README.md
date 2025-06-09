@@ -32,7 +32,7 @@
  </br>
 </br>
 
-## Olá, Devs! 👋
+## Olá! 👋
 
 Sou apaixonada por tecnologia e em constante aprendizado! Atualmente estou me aprofundando no universo do desenvolvimento web através da Alura, onde já conquistei habilidades em:
 
@@ -70,11 +70,10 @@ Sou movida pela curiosidade de descobrir novas tecnologias e apaixonada por tran
 
 </br>
 
-🌱 **Em crescimento constante:**  
-- Aprimorando fundamentos de JavaScript  
+🌱 **Em crescimento constante:**    
 - Explorando Angular para desenvolvimento front-end  
 - Estudando TypeScript para código mais robusto  
-- Praticando projetos pessoais para consolidar conhecimento
+
 
 </br>
 
