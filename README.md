@@ -23,17 +23,24 @@
 
 <div  align="center">
 <a href="mailto:Amorimpriscila500@hotmail.com?body=Olá%20Priscila,%20vim%20pelo%20seu%20GitHub!">
-  <img width="55px" src="https://i.ibb.co/Hp2cH3HP/emails.png" alt="Ícone de e-mail">
+  <img width="48px" src="https://img.icons8.com/?size=100&id=XgI8ghCZqXGi&format=png&color=000000" alt="Ícone de e-mail">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+
+    &nbsp;&nbsp;&nbsp;&nbsp;
+
+
 <a href="https://www.linkedin.com/in/priscila-amorim-5887a52a2/">
-  <img width="55px" src="https://i.ibb.co/0ynDGygK/linkedin.png" alt="linkedin">
+  <img width="48px" src="https://img.icons8.com/?size=100&id=kFJzAZryEscq&format=png&color=000000" alt="Ícone do LinkedIn">
 </a>
 
----
+    &nbsp;&nbsp;&nbsp;&nbsp;
 
-### 🌐 Acesse o Blog online  
-[ola-mundo-tech.vercel.app](https://ola-mundo-tech.vercel.app)
+
+<a href="https://ola-mundo-tech.vercel.app" target="_blank">
+  <img width="48px" src="https://img.icons8.com/?size=100&id=79041&format=png&color=000000" alt="Ícone do Blog">
+</a>
+
+
 </div>
  </br>
 </br>
