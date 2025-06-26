@@ -36,7 +36,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://ola-mundo-tech.vercel.app" target="_blank">
+      <a href="https://ola-mundo-tech.vercel.app" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/?size=100&id=79041&format=png&color=000000" width="48px" alt="Ícone do Blog"/><br/>
         <sub><b>Blog</b></sub>
       </a>
