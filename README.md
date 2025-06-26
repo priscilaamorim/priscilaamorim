@@ -27,14 +27,12 @@
     <sub><b>E-mail</b></sub>
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+  
   <a href="https://www.linkedin.com/in/priscila-amorim-5887a52a2/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=kFJzAZryEscq&format=png&color=000000" width="48px" alt="Ícone do LinkedIn"><br/>
     <sub><b>LinkedIn</b></sub>
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://ola-mundo-tech.vercel.app" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=79041&format=png&color=000000" width="48px" alt="Ícone do Blog"><br/>
@@ -42,7 +40,7 @@
   </a>
 </p>
 
-</div>
+
  </br>
 </br>
 
