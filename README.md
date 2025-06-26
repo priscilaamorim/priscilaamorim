@@ -22,9 +22,10 @@
 <h1 align="center">Priscila Amorim </h1>
 
 <div align="center">
- <a href="https://ola-mundo-tech.vercel.app" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=79041&format=png&color=000000" width="48px" alt="Ícone do Blog"><br/>
-    <sub><b>Blog</b></sub>
+
+<a href="mailto:Amorimpriscila500@hotmail.com?body=Olá%20Priscila,%20vim%20pelo%20seu%20GitHub!" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=19673&format=png&color=000000" width="48px" alt="Ícone de e-mail"><br/>
+    <sub><b>E-mail</b></sub>
   </a>
 
  
