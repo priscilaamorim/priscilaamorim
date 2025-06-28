@@ -30,7 +30,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="www.linkedin.com/in/priscilaamorim-dev" target="_blank">
+      <a href="www.linkedin.com/in/priscila-amorim-5887a52a2" target="_blank">
         <img src="https://img.icons8.com/?size=100&id=kFJzAZryEscq&format=png&color=000000" width="48px" alt="Ícone do LinkedIn"/><br/>
         <sub><b>LinkedIn</b></sub>
       </a>
