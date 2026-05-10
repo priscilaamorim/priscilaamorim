@@ -6,10 +6,7 @@
 
 
 </br>
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=priscilaamorim&show_icons=true&count_private=true&hide_border=true&title_color=BF2EF0&icon_color=F5004F&text_color=BF2EF0&bg_color=0d1117" alt="Prescila Amorim github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilaamorim&layout=compact&hide_border=true&title_color=BF2EF0&text_color=BF2EF0&bg_color=0d1117" />
-</div>
+
 
 </br>
 </br>
